@@ -10,7 +10,7 @@ The use of this application ("Bot") in a server requires the collection of some 
 Access to Data is only permitted to Bot's developers, and only in the scope required for the development, testing, and implementation of features for Bot. Data is not sold, provided to, or shared with any third party, except where required by law or a Terms of Service agreement.
 You can view the data upon request from @Rakanishyu, you may find the developer @Rakanishyu on the Sakura bot's Discord support server named "Sakura bot", you may join using this permanent invited link: https://discord.gg/6Twkggw.
 
-Data is stored in a sqlite3 database. The database is secured to prevent external access, however no guarantee is provided and the Bot owners assume no liability for the unintentional or malicious breach of Data. In the event of an unauthorised Data access, users will be notified through the Discord client application.
+Data is stored in a sqlite3 database. The database is secured to prevent external access, however no guarantee is provided and the Bot owner assume no liability for the unintentional or malicious breach of Data. In the event of an unauthorised Data access, users will be notified through the Discord client application.
 
 At any time, you have the right to request to view the Data pertaining to your Discord account. You may submit a request through the Discord Support Server https://discord.gg/6Twkggw. 
 You have the right to request the removal of relevant Data.
